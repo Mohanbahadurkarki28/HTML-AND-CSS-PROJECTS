@@ -13,13 +13,13 @@ Showcase of Five HTML & CSS Projects
 3. **Parallax Website**
    - A parallax website creates a 3D effect as users scroll, with background images moving slower than foreground elements. It adds depth and visual interest.
      ![1](https://github.com/user-attachments/assets/4b695e71-b994-4c71-ac0a-6c4096e36d4f)
-![2](https://github.com/user-attachments/assets/27b35cb1-e103-4af5-8e8b-dc4aca6ed692)
-![3](https://github.com/user-attachments/assets/dfdc1f9e-3404-4c55-b442-04bc6c77cd65)
+     ![2](https://github.com/user-attachments/assets/27b35cb1-e103-4af5-8e8b-dc4aca6ed692)
+     ![3](https://github.com/user-attachments/assets/dfdc1f9e-3404-4c55-b442-04bc6c77cd65)
 
 4. **Developer Landing Page**
    - A developer landing page showcases your skills, projects, and contact info to attract potential clients or employers.
     ![2](https://github.com/user-attachments/assets/d10612a8-0172-47d5-9e27-8fb78e92362f)
-![1](https://github.com/user-attachments/assets/59a2c778-b2c8-45f1-8ee8-3ec0e2f12198)
+    ![1](https://github.com/user-attachments/assets/59a2c778-b2c8-45f1-8ee8-3ec0e2f12198)
 
 
 5. **Restaurant Menu**
